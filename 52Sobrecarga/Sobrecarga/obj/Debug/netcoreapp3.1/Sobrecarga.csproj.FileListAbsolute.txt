@@ -1,0 +1,11 @@
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\rapha\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb

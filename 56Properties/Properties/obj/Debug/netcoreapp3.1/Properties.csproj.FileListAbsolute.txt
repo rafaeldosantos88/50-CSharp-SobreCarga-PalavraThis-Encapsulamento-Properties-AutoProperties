@@ -1,0 +1,11 @@
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\temp\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\temp\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\temp\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\temp\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\temp\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\temp\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
